@@ -1,18 +1,11 @@
-## Getting Started
+# Meu primeiro desafio POO em Java:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Explicando:
 
-## Folder Structure
+Neste projeto fiz um controle de criação de um Bootcamp. Sendo acrescentado Cursos, Devs, Mentorias, Conteúdos e Calculo de Pontuação.
+Assim que o Dev avança no Bootcamp ele acumula uma pontuação até ele finalizar o curso.
 
-The workspace contains two folders by default, where:
+### O que foi utilizado:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Basicamente a crição desse projeto foi feita com o Framework Collections para o manuseio dos conteúdos com o modelo Set, LinkedHashSet, HasSet e Map.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
